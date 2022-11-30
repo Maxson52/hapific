@@ -1,5 +1,32 @@
 <svelte:head>
   <title>Hapific</title>
+
+  <meta name="title" content="Hapific" />
+  <meta name="description" content="Why wait for happiness to come to you?" />
+  <meta name="keywords" content="hapific, happiness, productivity" />
+  <meta name="robots" content="index, follow" />
+  <meta name="language" content="English" />
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://hapific.com" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Hapific" />
+  <meta
+    property="og:description"
+    content="Why wait for happiness to come to you?"
+  />
+  <meta property="og:image" content="/banner.png" />
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="twitter:domain" content="hapific.com" />
+  <meta property="twitter:url" content="https://hapific.com" />
+  <meta name="twitter:title" content="Hapific" />
+  <meta
+    name="twitter:description"
+    content="Why wait for happiness to come to you?"
+  />
+  <meta name="twitter:image" content="/banner.png" />
 </svelte:head>
 
 <main
