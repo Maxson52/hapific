@@ -34,10 +34,10 @@
 >
   <div class="tracking-[-0.08em] w-3/4">
     <h1 class="mb-2 text-greenish-100">Hapific</h1>
-    <h1>— A better lifestyle <br /> leads to a better life.</h1>
+    <h1>— Why wait for <br /> happy? Go get it.</h1>
   </div>
 
-  <div class="flex flex-col tracking-[-0.08em] w-3/4">
+  <div class="flex flex-col tracking-[-0.08em] w-3/4 mt-4">
     <a href="https://course.hapific.com" data-sveltekit-preload-data="off"
       >Our Course</a
     >
@@ -53,6 +53,6 @@
   }
 
   a {
-    @apply underline underline-offset-4 decoration-2;
+    @apply underline underline-offset-4 decoration-2 text-base md:text-lg lg:text-xl;
   }
 </style>
