@@ -35,7 +35,7 @@
     <h1>— Why wait for <br /> happy? Go get it.</h1>
   </div>
 
-  <div class="flex flex-col tracking-[-0.08em] w-3/4 mt-4">
+  <div class="flex flex-col gap-0.5 tracking-[-0.08em] w-3/4 mt-6">
     <a href="https://course.hapific.com" data-sveltekit-preload-data="off"
       >Our Course</a
     >
@@ -51,6 +51,6 @@
   }
 
   a {
-    @apply underline underline-offset-4 decoration-2 text-base md:text-lg lg:text-xl;
+    @apply underline underline-offset-[5px] decoration-2 text-base w-fit md:text-lg lg:text-xl;
   }
 </style>

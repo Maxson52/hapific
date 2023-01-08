@@ -3,7 +3,7 @@ const config = {
 
   theme: {
     fontFamily: {
-      sans: ["Unica", "system-ui"],
+      sans: ["Arimo", "system-ui"],
     },
     extend: {
       colors: {
